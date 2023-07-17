@@ -1,0 +1,19 @@
+{
+  "name": "ingondax-game",
+  "version": "0.1.1",
+  "description": "Early scratchings of a game? Maybe?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishihho/ingondax.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishihho/ingondax/issues"
+  },
+  "homepage": "https://github.com/rishihho/ingondax#readme"
+}
